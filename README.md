@@ -13,6 +13,8 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
+### Hi Welcome to Lawrence's Github..
+This profile page is in construction!
 <!--
 ![Image not found](afton_github_banner_developer.png)
 
