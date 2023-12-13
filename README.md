@@ -13,10 +13,10 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
+<!--
+![Image not found](afton_github_banner_developer.png)
 
-//![Image not found](afton_github_banner_developer.png)
-
-<!--![](https://komarev.com/ghpvc/?username=AftonLawver&style=flat)
+![](https://komarev.com/ghpvc/?username=AftonLawver&style=flat)
 
 <div align="center"> 
   <a href="[https://www.instagram.com/tailshall/](https://www.instagram.com/afton.lawver/)" target="_blank">
