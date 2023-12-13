@@ -15,7 +15,7 @@ Here are some ideas to get you started:
 -->
 ### Hi Welcome to Lawrence's Github..
 This profile page is in construction!
-<img src="construction-img.jpg">
+<img src="construction-img.jpg" width="300px">
 <!--
 ![Image not found](afton_github_banner_developer.png)
 
