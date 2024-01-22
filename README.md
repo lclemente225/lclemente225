@@ -18,6 +18,27 @@ Here are some ideas to get you started:
 ### Hi Welcome to Lawrence's Github..
 This profile page is in construction!
 <img src="construction-img.jpg" width="300px">
+
+
+<hr>
+<br>
+
+<h3 align="center">Languages and Tools:</h3>
+<div style="display: inline_block" align="center">
+  <img src="html.png" width="40">
+  <img src="css.png" width="40">
+  <img src="js.png" width="40">
+  <img src="bootstrap.png" width="40">
+  <img src="sass.png" width="40">
+  <img src="express.png" width="40">
+  <img src="git.png" width="40">
+  <img src="node.png" width="40">
+  <img src="mysql.png" width="40">
+  <img src="mongodb.png" width="40">
+</div>
+
+<br>
+<hr>
 <!--
 
 ![](https://komarev.com/ghpvc/?username=AftonLawver&style=flat)
@@ -44,25 +65,6 @@ This profile page is in construction!
 As a results-driven web developer with a Computer Science degree, I create exceptional websites and web apps that engage users. I specialize in frontend design, using JavaScript (ES6), HTML, CSS, Bootstrap, and TailwindCSS for pixel-perfect, responsive interfaces. On the backend, I excel in Node.js and ExpressJS for robust server applications, integrating MongoDB and MySQL databases for efficient data management. My strong foundation in computer science enhances my problem-solving and performance optimization skills. I'm excited to bring my creativity and dedication to your team, collaborating on projects that drive success and engage your audience. Together, we can transform your web presence into something remarkable.
 </div>
 
-<hr>
-<br>
-
-<h3 align="center">Languages and Tools:</h3>
-<div style="display: inline_block" align="center">
-  <img src="html.png" width="40">
-  <img src="css.png" width="40">
-  <img src="js.png" width="40">
-  <img src="bootstrap.png" width="40">
-  <img src="sass.png" width="40">
-  <img src="express.png" width="40">
-  <img src="git.png" width="40">
-  <img src="node.png" width="40">
-  <img src="mysql.png" width="40">
-  <img src="mongodb.png" width="40">
-</div>
-
-<br>
-<hr>
 <br>
 
 <h3>Projects</h3>
