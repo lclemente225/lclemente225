@@ -13,11 +13,12 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
+
+![Image not found](BANNER.png)
 ### Hi Welcome to Lawrence's Github..
 This profile page is in construction!
 <img src="construction-img.jpg" width="300px">
 <!--
-![Image not found](BANNER.png)
 
 ![](https://komarev.com/ghpvc/?username=AftonLawver&style=flat)
 
