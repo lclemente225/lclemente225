@@ -26,14 +26,14 @@ This profile page is in construction!
 <h3 align="center">Languages and Tools:</h3>
 <div style="display: inline_block" align="center">
   <img src="html.png" width="40">
-  <img src="css.png" width="40">
-  <img src="js.png" width="40">
+  <img src="css.jpg" width="40">
+  <img src="javascript.png" width="40">
   <img src="bootstrap.png" width="40">
-  <img src="sass.png" width="40">
+  <img src="tailwind.png" width="40">
   <img src="express.png" width="40">
   <img src="git.png" width="40">
-  <img src="node.png" width="40">
-  <img src="mysql.png" width="40">
+  <img src="nodejs.png" width="40">
+  <img src="sql.png" width="40">
   <img src="mongodb.png" width="40">
 </div>
 
