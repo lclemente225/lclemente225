@@ -15,7 +15,7 @@ Here are some ideas to get you started:
 -->
 
 ![Image not found](BANNER.png)
-### Hi Welcome to Lawrence's Github..
+### Hi Welcome to Lawrence's Github.
 
 
 <hr>
