@@ -31,7 +31,7 @@ Here are some ideas to get you started:
   <img src="express.png" width="40">
   <img src="git.png" width="40">
   <img src="nodejs.jpg" width="40">
-  <img src="sql.png" width="40">
+  <img src="sql.png" width="60">
   <img src="mongodb.png" width="40">
 </div>
 
