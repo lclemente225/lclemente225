@@ -26,9 +26,9 @@ This profile page is in construction!
 <h3 align="center">Languages and Tools:</h3>
 <div style="display: inline_block" align="center">
   <img src="html.png" width="40">
-  <img src="css.jpg" width="40">
+  <img src="css.jpg" width="50">
   <img src="javascript.png" width="40">
-  <img src="bootstrap.png" width="40">
+  <img src="bootstrap.png" width="50">
   <img src="tailwind.png" width="40">
   <img src="express.png" width="40">
   <img src="git.png" width="40">
