@@ -32,7 +32,7 @@ This profile page is in construction!
   <img src="tailwind.png" width="40">
   <img src="express.png" width="40">
   <img src="git.png" width="40">
-  <img src="nodejs.png" width="40">
+  <img src="nodejs.jpg" width="40">
   <img src="sql.png" width="40">
   <img src="mongodb.png" width="40">
 </div>
