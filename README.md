@@ -38,20 +38,18 @@ Here are some ideas to get you started:
 <br>
 <hr>
 
-`<div align="center"> 
+<div align="center"> 
   <!-- <a href="[https://www.instagram.com/tailshall/](https://www.instagram.com/afton.lawver/)" target="_blank">
     <img src="https://img.shields.io/badge/-Instagram-%23E4405F?style=for-the-badge&logo=instagram&logoColor=white" target="_blank">
   </a> -->
-  <a href="https://lclemente225.github.io" style="text-decoration:none;color:white;" target="_blank">
-    Portfolio
-  </a> 
+  [Portfolio]("https://lclemente225.github.io")
   <a href = "mailto: lawrenceclemente3@gmail.com" target="_blank">
     <img src="https://img.shields.io/badge/-Gmail-%23333?style=for-the-badge&logo=gmail&logoColor=white">
   </a>
   <a href="https://www.linkedin.com/in/lawrence-clemente/" target="_blank">
     <img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white">
   </a> 
- </div>`
+ </div>
 
 <hr>
 
