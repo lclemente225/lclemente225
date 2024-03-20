@@ -45,7 +45,7 @@ Here are some ideas to get you started:
   [Portfolio](https://lclemente225.github.io)
   <a href = "mailto: lawrenceclemente3@gmail.com" target="_blank">
     <img src="https://img.shields.io/badge/-Gmail-%23333?style=for-the-badge&logo=gmail&logoColor=white">
-  </a>
+  </a>&nbsp;
   <a href="https://www.linkedin.com/in/lawrence-clemente/" target="_blank">
     <img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white">
   </a> 
