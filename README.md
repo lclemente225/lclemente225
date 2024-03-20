@@ -26,7 +26,7 @@ Here are some ideas to get you started:
   <img src="html.png" width="40">
   <img src="css.jpg" width="50">
   <img src="javascript.png" width="40">
-  <img src="bootstrap.png" width="50">
+  <img src="bootstrap.png" width="40">
   <img src="tailwind.png" width="40">
   <img src="express.png" width="40">
   <img src="git.png" width="40">
