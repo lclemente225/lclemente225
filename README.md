@@ -29,7 +29,7 @@ Here are some ideas to get you started:
   <img src="bootstrap.png" width="40">
   <img src="tailwind-css.svg" width="40">
   <img src="express.png" width="40">
-  <img src="git.png" width="40">
+  <img src="git.svg" width="40">
   <img src="nodejs.svg" width="40">
   <img src="sql-database-generic.svg" width="30">
   <img src="mongodb-original-wordmark.svg" width="40">
