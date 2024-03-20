@@ -27,7 +27,7 @@ Here are some ideas to get you started:
   <img src="css.jpg" width="50">
   <img src="javascript.png" width="40">
   <img src="bootstrap.png" width="40">
-  <img src="tailwind-nobg.png" width="40">
+  <img src="tailwind-css.svg" width="40">
   <img src="express.png" width="40">
   <img src="git.png" width="40">
   <img src="nodejs.jpg" width="40">
