@@ -42,7 +42,7 @@ Here are some ideas to get you started:
   <!-- <a href="[https://www.instagram.com/tailshall/](https://www.instagram.com/afton.lawver/)" target="_blank">
     <img src="https://img.shields.io/badge/-Instagram-%23E4405F?style=for-the-badge&logo=instagram&logoColor=white" target="_blank">
   </a> -->
-  <a href="https://lclemente225.github.io" target="_blank">
+  <a href="https://lclemente225.github.io" style="text-decoration:none;color:white;" target="_blank">
     Portfolio
   </a> 
   <a href = "mailto: lawrenceclemente3@gmail.com" target="_blank">
