@@ -32,7 +32,7 @@ Here are some ideas to get you started:
   <img src="git.png" width="40">
   <img src="nodejs.jpg" width="40">
   <img src="sql-database-generic.svg" width="40">
-  <img src="mongodb.png" width="40">
+  <img src="mongo-original-wordmark.svg" width="40">
 </div>
 
 <br>
