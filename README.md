@@ -22,7 +22,7 @@ Here are some ideas to get you started:
 <br>
 
 <h3 align="center">Languages and Tools:</h3>
-<div style="display: flex; align-content:center;" align="center">
+<div style="display: flex; align-content:center;">
   <img src="html.png" width="40">
   <img src="css.jpg" width="50">
   <img src="javascript.png" width="40">
